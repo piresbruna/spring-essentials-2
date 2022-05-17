@@ -17,11 +17,17 @@ import java.util.List;
 @Log4j2
 @RequiredArgsConstructor
 public class AnimeController {
-    private DateUtil dateUtil;
+    private final DateUtil dateUtil;
 
     @GetMapping(path = "list")
     public List<Anime> list(){
         log.info(dateUtil.formatLocalDateTimeToDatabaseStyle(LocalDateTime.now()));
-        return List.of(new Anime("DBZ"), new Anime("Berserk"));
+        return List.of(new Anime("Boku no Hero Academia"), new Anime("Berserk"), new Anime("One Piece"));
+    }
+
+    @GetMapping(path = "list2")
+    public List<Anime> list2(){
+        log.info(dateUtil.formatLocalDateTimeToDatabaseStyle(LocalDateTime.now()));
+        return List.of(new Anime("Boku no Hero Academia"), new Anime("Naruto"), new Anime("One Piece"));
     }
 }
