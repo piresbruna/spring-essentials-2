@@ -20,3 +20,4 @@ Contém o projeto iniciado no vídeo 6, contruído usando o [Spring Initializr](
 - **Commit 3:** Vídeo 5;
 - **Commit 4:** Vídeo 6;
 - **Commit 5:** Vídeos 7 e 8;
+- **Commit 6:** Vídeo 9;
