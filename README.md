@@ -23,3 +23,7 @@ Contém o projeto iniciado no vídeo 6, construído usando o [Spring Initializr]
 - **Commit 6:** Vídeo 9;
 - **Commit 7:** Vídeos 10 e 11;
 - **Commit 8:** Vídeos 12, 13 e 14;
+- **Commit 9:** Vídeo 15;
+	- Nos testes via Postman, o valor do atributo name começou a ser salvo como null.
+	- A solução foi adicionar um path de binding entre o lombok e o mapstruck, além de deixar o lombok primeiro nas configurações.
+	- Ver a versão do pom.xml desse commit.
