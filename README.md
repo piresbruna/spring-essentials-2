@@ -11,7 +11,7 @@ Contém o projeto construído nos vídeos 1 à 5.
 
 ### springboot2-spring-io
 
-Contém o projeto iniciado no vídeo 6, contruído usando o [Spring Initializr](https://start.spring.io).
+Contém o projeto iniciado no vídeo 6, construído usando o [Spring Initializr](https://start.spring.io).
 
 ## Commits seguindo os vídeos
 
@@ -22,3 +22,4 @@ Contém o projeto iniciado no vídeo 6, contruído usando o [Spring Initializr](
 - **Commit 5:** Vídeos 7 e 8;
 - **Commit 6:** Vídeo 9;
 - **Commit 7:** Vídeos 10 e 11;
+- **Commit 8:** Vídeos 12, 13 e 14;
