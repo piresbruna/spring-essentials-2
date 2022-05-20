@@ -28,3 +28,4 @@ Contém o projeto iniciado no vídeo 6, construído usando o [Spring Initializr]
 	- A solução foi adicionar um path de binding entre o lombok e o mapstruck, além de deixar o lombok primeiro nas configurações.
 	- Ver a versão do pom.xml desse commit.
 - **Commit 10:** Vídeo 16;
+- **Commit 11:** Vídeo 17;
