@@ -39,3 +39,4 @@ Contém o projeto iniciado no vídeo 6, construído usando o [Spring Initializr]
 - **Commit 19:** Vídeo 31;
 - **Commit 20:** Vídeo 32;
 - **Commit 21:** Vídeos 33, 34 e 35;
+- **Commit 22:** Vídeo 36 e 37;
